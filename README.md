@@ -1,6 +1,6 @@
-# PythonFolderTrieur V1.0
+# PythonFolderTrieur V1.0 (Beta Project)
 
-Python Shorter Folder
+Python Shorter Folder (Beta Project)
 
 # Introduction
 
