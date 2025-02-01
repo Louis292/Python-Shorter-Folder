@@ -1,4 +1,4 @@
-# PythonFolderTrieur V1.0 (Beta Project)
+# PythonFolderTrieur V1.0 (Beta Project) [📂]
 
 Python Shorter Folder (Beta Project)
 
